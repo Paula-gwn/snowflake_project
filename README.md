@@ -13,7 +13,7 @@ This project analyzes online player session data using **Snowflake**, **dbt**, a
 - **Automation**: Simple cron job or scheduler to refresh data daily
 
 ---
-📁 Project Structure & Local Setup
+📁 Project Structure & Local Setup  
 This project demonstrates a local data workflow that connects Snowflake, dbt, and Git in a structured and reproducible way. It is designed to follow best practices for analytics engineering.
 
 ## 🏗️ Folder Structure
