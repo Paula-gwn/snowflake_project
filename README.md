@@ -40,6 +40,7 @@ snowflake_project/
 🔗 Connecting Git and Snowflake Locally  
 ✅ Git & GitHub  
 This repository is version-controlled using Git and hosted on GitHub for collaboration and project tracking.  
+
 ❄️ Snowflake Setup
 Data is stored in Snowflake and queried through dbt.  
 Steps taken:  
